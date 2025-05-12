@@ -16,6 +16,11 @@ TODO hablar de las distintas partes
 
 TODO hablar de las acciones al usarla, desde el encendido
 
+### Las fresas
+TODO Fresas para las pistas
+
+TODO Fresas para corte
+
 ## El software
 TODO hablar de la versión compatible y donde encontrarla
 TODO funciones del software
