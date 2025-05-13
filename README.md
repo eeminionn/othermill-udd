@@ -1,8 +1,12 @@
 # Guía de uso CNC Othermill Exploratec
 Instructivo de la utilización de la maquina Othermill de Bantam Tools para su uso en el taller de Exploratec UDD.
 
+TODO foto maquina
+
 ## Uso
 La cnc othermill es una fresadora por control numérico computarizado, y al igual que una impresora 3d o una cortadora láser nos ayuda con la manufactura de productos, en este caso específicamente en la producción de circuitos en placas PCB.
+
+TODO foto pcb
 
 ### PCB
 >*En electrónica, una placa de circuito impreso es una superficie constituida por caminos, pistas o lapices de circuitos buses de material conductor laminadas sobre una base no conductora. El circuito impreso se utiliza para conectar eléctricamente a través de las pistas conductoras, y sostener mecánicamente, por medio de la base, un conjunto de componentes electrónicos. Las pistas son generalmente de cobre, mientras que la base se fabrica generalmente de resinas de fibra de vidrio reforzada, cerámica, plástico, teflón o polímeros como la baquelita.*
@@ -14,7 +18,11 @@ Una placa PCB cuenta con varias capas, pero en su forma básica tiene una capa d
 
 La capa de sustrato está hecha de un material aislante, y la capa de cobre, debido a su composición, es conductiva. Esto permite generar conexiones eléctricas entre distintos componentes sustrayendo cobre de la placa, generando las llamadas pistas.
 
+TODO foto capas de un pcb
+
 Para el diseño de estas placas existen softwares en los que se pueden generar esquemáticos y placas, como KiCad, Fritzing, o Autodesk Eagle; de las tres se recomienda **KiCad** por ser open source y por contar con mantenimiento regular.
+
+TODO foto software
 
 ## La máquina
 TODO hablar de las distintas partes
@@ -30,7 +38,17 @@ TODO Fresas para corte
 TODO hablar de la versión compatible y donde encontrarla
 TODO funciones del software
 
+<div class="comentario">
+
 >#### El siguente paso
 >Si ya lograste producir tus circuitos PCB con la Othermill te invitamos a dar el siguiente paso investigando más sobre la manufactura de circuitos, hay muchos tipos y técnicas, como también tienes la posibilidad de delegar la manufactura en un tercero como JLC-PCB y PCB-Way.
 
+</div>
+
 >documentado por [AndresMartinM](https://github.com/AndresMartinM) y por [ElPerroGCP](https://github.com/ElPerroGCP) 2025
+
+<style>
+    .comentario {
+        color : red;
+    }
+</style>
