@@ -22,7 +22,7 @@ TODO foto capas de un pcb
 
 Para el diseño de estas placas existen softwares en los que se pueden generar esquemáticos y placas, como KiCad, Fritzing, o Autodesk Eagle; de las tres se recomienda **KiCad** por ser open source y por contar con mantenimiento regular.
 
-TODO foto software
+TODO foto kicad
 
 ## La máquina
 TODO hablar de las distintas partes
@@ -36,19 +36,10 @@ TODO Fresas para corte
 
 ## El software
 TODO hablar de la versión compatible y donde encontrarla
-TODO funciones del software
 
-<div class="comentario">
+TODO funciones del software
 
 >#### El siguente paso
 >Si ya lograste producir tus circuitos PCB con la Othermill te invitamos a dar el siguiente paso investigando más sobre la manufactura de circuitos, hay muchos tipos y técnicas, como también tienes la posibilidad de delegar la manufactura en un tercero como JLC-PCB y PCB-Way.
 
-</div>
-
 >documentado por [AndresMartinM](https://github.com/AndresMartinM) y por [ElPerroGCP](https://github.com/ElPerroGCP) 2025
-
-<style>
-    .comentario {
-        color : red;
-    }
-</style>
