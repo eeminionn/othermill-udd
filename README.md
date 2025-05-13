@@ -7,7 +7,9 @@ La cnc othermill es una fresadora por control numérico computarizado, y al igua
 ### PCB
 TODO hablar de las capacidades de un circuito hecho en PCB
 
-TODO hablar del funcionamiento de un PCB
+Una placa PCB cuenta con varias capas, pero en su forma básica tiene una capa de sustrato y una capa de cobre, existen algunas con más capas de estas, e incluso con otras capas.
+
+La capa de sustrato está hecha de un material aislante, y la capa de cobre, debido a su composición, es conductiva. Esto permite generar conexiones eléctricas entre distintos componentes 
 
 TODO hablar del diseño de placas, kicad fritzing
 
