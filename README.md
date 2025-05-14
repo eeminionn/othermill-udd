@@ -28,11 +28,17 @@ TODO foto kicad
 
 ## La máquina
 El modelo de la CNC es **Othermill Pro** de *Other Machine Co.* 
-
+|**Othermill Pro**
+:----:
 ![foto](img/maquina.JPG)
-![foto](img/champi.JPG)
+
+|Botón de emergencia | Portaherramienta
+:----------------------:|:----------------------------:
+![foto](img/champi.JPG) | ![foto](img/fresaPuesta.JPG)
+
+|cama
+:----:
 ![foto](img/cama.JPG)
-![foto](img/fresaPuesta.JPG)
 
 En la parte trasera de la máquina está el interruptor de encendido, la conexión a la corriente y al computador.
 
