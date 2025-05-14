@@ -1,7 +1,7 @@
 # Guía de uso CNC Othermill Exploratec
 Instructivo de la utilización de la maquina Othermill de Bantam Tools para su uso en el taller de Exploratec UDD.
 
-TODO foto maquina
+![foto maquina](img/maquina.JPG)
 
 ## Uso
 La cnc othermill es una fresadora por control numérico computarizado, y al igual que una impresora 3d o una cortadora láser nos ayuda con la manufactura de productos, en este caso específicamente en la producción de circuitos en placas PCB.
@@ -27,7 +27,18 @@ Para el diseño de estas placas existen softwares en los que se pueden generar e
 TODO foto kicad
 
 ## La máquina
-TODO hablar de las distintas partes
+El modelo de la CNC es **Othermill Pro** de *Other Machine Co.* 
+
+![foto](img/maquina.JPG)
+![foto](img/champi.JPG)
+![foto](img/cama.JPG)
+![foto](img/fresaPuesta.JPG)
+
+En la parte trasera de la máquina está el interruptor de encendido, la conexión a la corriente y al computador.
+
+![foto maquina conectada](img/maquinaConectada.JPG)
+![foto maquina fuente](img/maquinaFuente.JPG)
+![foto maquina u s b](img/maquinaUSB.JPG)
 
 TODO hablar de las acciones al usarla, desde el encendido
 
