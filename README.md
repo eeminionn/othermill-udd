@@ -3,6 +3,19 @@ Instructivo de la utilización de la maquina Othermill de Bantam Tools para su u
 
 ![foto maquina](img/maquina.JPG)
 
+------------------------
+
+$$\color{red}\Huge{\textsf{Considerar!}}$$
+
+TODO Precauciones
+
+-
+-
+
+TODO Herramientas
+
+------------------------
+
 ## Uso
 La cnc othermill es una fresadora por control numérico computarizado, y al igual que una impresora 3d o una cortadora láser nos ayuda con la manufactura de productos, en este caso específicamente en la producción de circuitos en placas PCB.
 
