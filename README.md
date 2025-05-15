@@ -33,7 +33,7 @@ El modelo de la CNC es **Othermill Pro** de *Other Machine Co.*
 ![foto](img/maquina.JPG)
 
 |Botón de emergencia | Portaherramienta
-:----------------------:|:----------------------------:
+---------------------|-------------------------
 ![foto](img/champi.JPG) | ![foto](img/fresaPuesta.JPG)
 
 |Cama del CNC
@@ -47,7 +47,7 @@ En la parte trasera de la máquina está el interruptor de encendido, la conexi�
 ![foto maquina conectada](img/maquinaConectada.JPG)
 
 |Encendido y alimentación | Puerto USB tipo B 
-:-------------------------------|-------------------------------------:
+---------------------------|-------------------------------
 ![foto maquina fuente](img/maquinaFuente.JPG) | ![foto maquina u s b](img/maquinaUSB.JPG)
 
 TODO hablar de las acciones al usarla, desde el encendido
