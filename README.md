@@ -1,7 +1,7 @@
 # Guía de uso CNC Othermill Exploratec
 Instructivo de la utilización de la maquina Othermill de Bantam Tools para su uso en el taller de Exploratec UDD.
 
-![foto maquina](img/comp/maquina.JPG)
+![foto maquina](img/comp/maquina.jpg)
 
 ------------------------
 
@@ -57,25 +57,25 @@ El modelo de la CNC es **Othermill Pro** de *Other Machine Co.*
 
 |**Othermill Pro**
 :----:
-![foto](img/comp/maquina.JPG)
+![foto](img/comp/maquina.jpg)
 
 |Botón de emergencia | Portaherramienta
 ---------------------|-------------------------
-![foto](img/comp/champi.JPG) | ![foto](img/comp/fresaPuesta.JPG)
+![foto](img/comp/champi.jpg) | ![foto](img/comp/fresaPuesta.jpg)
 
 |Cama del CNC
 :----:
-![foto](img/comp/cama.JPG)
+![foto](img/comp/cama.jpg)
 
 En la parte trasera de la máquina está el interruptor de encendido, la conexión a la corriente y al computador.
 
 |Parte trasera|
 :------:
-![foto maquina conectada](img/comp/maquinaConectada.JPG)
+![foto maquina conectada](img/comp/maquinaConectada.jpg)
 
 |Encendido y alimentación  | Puerto USB tipo B 
 ---------------------------|-------------------------------
-![foto maquina fuente](img/comp/maquinaFuente.JPG) | ![foto maquina u s b](img/comp/maquinaUSB.JPG)
+![foto maquina fuente](img/comp/maquinaFuente.jpg) | ![foto maquina u s b](img/comp/maquinaUSB.jpg)
 
 TODO hablar de las acciones al usarla, desde el encendido
 
