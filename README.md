@@ -1,5 +1,5 @@
 # Guía de uso CNC Othermill Exploratec
-Instructivo de la utilización de la maquina Othermill de Bantam Tools para su uso en el taller de Exploratec UDD.
+Instructivo de la utilización de la maquina Othermill con Bantam Tools para su uso en el taller de Exploratec UDD.
 
 ![foto maquina](img/comp/maquina.jpg)
 
