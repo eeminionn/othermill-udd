@@ -11,7 +11,7 @@ $$\color{red}\Huge{\textsf{Considerar!}}$$
 
 - Verificar que no haya gente transitando mientras se vaya a usar
 - Verificar sujeción de la fresa 
-- MAntenerse junta a la maquina mientras está trabajando
+- Mantenerse junto a la maquina mientras está trabajando
 
 ### Herramientas
 
@@ -82,9 +82,9 @@ TODO hablar de las acciones al usarla, desde el encendido
 ### Las fresas
 Existen fresas para distintos usos, por lo que para fabricar una pcb se debe cambiar la fresa antes de cada etapa. Principalmente hay 2 usos, grabado de pistas, y perforaciónes/cortes.
 
-TODO Fresas para las pistas
+Para aislar las pistas se usan fresas de grabado, también llamadas fresas en V, 
 
-TODO Fresas para corte
+Para los cortes y las perforaciones se recomienda usar fresas en espiral de 0.8mm, estas son muy delicadas por lo que se debe trabajar con cuidado de no dañarla. Para evitar roturas mientras está fresando, se recomienda TODO(detallar los parámetros recomendados), de todas maneras el preset TODO(nombre del preset) configurado por [ElPerroGCP](https://github.com/ElPerroGCP) debería ser el adecuado.
 
 ## El software
 Para usar la maquina en el taller se cuenta con un equipo con ***Bantam Tools Desktop Milling Machine Software*** instalado
@@ -93,7 +93,9 @@ TODO hablar de la versión compatible y donde encontrarla
 
 TODO funciones del software
 
->#### El siguente paso
->Si ya lograste producir tus circuitos PCB con la Othermill te invitamos a dar el siguiente paso investigando más sobre la manufactura de circuitos, hay muchos tipos y técnicas, como también tienes la posibilidad de delegar la manufactura en un tercero como JLC-PCB y PCB-Way.
+---
+
+##### El siguente paso
+###### Si ya lograste producir tus circuitos PCB con la Othermill te invitamos a dar el siguiente paso investigando más sobre la manufactura de circuitos, hay muchos tipos y técnicas, como también tienes la posibilidad de delegar la manufactura en un tercero como JLC-PCB y PCB-Way.
 
 >documentado por [AndresMartinM](https://github.com/AndresMartinM) y por [ElPerroGCP](https://github.com/ElPerroGCP) 2025
