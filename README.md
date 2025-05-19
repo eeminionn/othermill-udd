@@ -50,8 +50,6 @@ La capa de sustrato está hecha de un material aislante, y la capa de cobre, deb
 
 Para el diseño de estas placas existen softwares en los que se pueden generar esquemáticos y placas, como KiCad, Fritzing, o Autodesk Eagle; de las tres se recomienda **KiCad** por ser open source y por contar con mantenimiento regular.
 
-TODO foto kicad
-
 ## La máquina
 El modelo de la CNC es **Othermill Pro** de *Other Machine Co.* 
 |**Othermill Pro**
