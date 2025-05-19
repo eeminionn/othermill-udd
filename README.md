@@ -1,7 +1,7 @@
 # Guía de uso CNC Othermill Exploratec
 Instructivo de la utilización de la maquina Othermill de Bantam Tools para su uso en el taller de Exploratec UDD.
 
-![foto maquina](img/maquina.JPG)
+![foto maquina](img/comp/maquina.JPG)
 
 ------------------------
 
@@ -29,7 +29,7 @@ $$\color{red}\Huge{\textsf{Considerar!}}$$
 ## Uso
 La cnc othermill es una fresadora por control numérico computarizado, y al igual que una impresora 3d o una cortadora láser nos ayuda con la manufactura de productos, en este caso específicamente en la producción de circuitos en placas PCB.
 
->![Discrete diode-transistor logic printed circuit modules manufactured in the German Democratic Republic. Produced in the 1960s](img/pcbEjemplo.jpg)
+>![Discrete diode-transistor logic printed circuit modules manufactured in the German Democratic Republic. Produced in the 1960s](img/comp/pcbEjemplo.jpg)
 <a href="https://commons.wikimedia.org/wiki/File:GS48_63.jpg">Mister rf</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
 
 ### PCB
@@ -38,50 +38,57 @@ La cnc othermill es una fresadora por control numérico computarizado, y al igua
 
 Las PCB o **placas de circuito impreso**, son usadas para la **producción serializada** de componentes electrónicos, y su uso se extiende a la mayoría de productos con alguna clase de circuito. Al desarrollar un proyecto que cuenta con algún circuito se suele comenzar prototipando en un *protoboard*, dicho prototipo tendría como objetivo validar el funcionamiento de la electrónica, tras ello el siguente paso sería fabricar el circuito en PCB, esta vez pensando en dimensiones físicas, ensambles, y en la integralidad del producto.
 
->![Canon PowerShot G11 - Rear view of the interior.jpg](img/interiorCamara.jpg)
+>![Canon PowerShot G11 - Rear view of the interior.jpg](img/comp/interiorCamara.jpg)
 <a href="https://commons.wikimedia.org/wiki/File:Canon_PowerShot_G11_-_Rear_view_of_the_interior.jpg">Teardown Central</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons
 
 Una placa PCB cuenta con varias capas, pero en su forma básica tiene una capa de sustrato y una capa de cobre, existen algunas con más capas de estas, e incluso con otras capas.
 
 La capa de sustrato está hecha de un material aislante, y la capa de cobre, debido a su composición, es conductiva. Esto permite generar conexiones eléctricas entre distintos componentes sustrayendo cobre de la placa, generando las llamadas pistas.
 
->![capas de una pcb](img/pcbCapas.png)
+>![capas de una pcb](img/comp/pcbCapas.png)
 <a href="https://commons.wikimedia.org/wiki/File:Layers_of_Single-Layer_PCB_Simplified.svg">Gregortiverse</a>, CC0, via Wikimedia Commons
 
 Para el diseño de estas placas existen softwares en los que se pueden generar esquemáticos y placas, como KiCad, Fritzing, o Autodesk Eagle; de las tres se recomienda **KiCad** por ser open source y por contar con mantenimiento regular.
 
+Al diseñar una placa de circuito se deben generar los distintos archivos ***gerber***, para su fabricación. Cada capa del circuito tiene su propio archivo, los que se deben importar en el software de la máquina.
+
 ## La máquina
 El modelo de la CNC es **Othermill Pro** de *Other Machine Co.* 
+
 |**Othermill Pro**
 :----:
-![foto](img/maquina.JPG)
+![foto](img/comp/maquina.JPG)
 
 |Botón de emergencia | Portaherramienta
 ---------------------|-------------------------
-![foto](img/champi.JPG) | ![foto](img/fresaPuesta.JPG)
+![foto](img/comp/champi.JPG) | ![foto](img/comp/fresaPuesta.JPG)
 
 |Cama del CNC
 :----:
-![foto](img/cama.JPG)
+![foto](img/comp/cama.JPG)
 
 En la parte trasera de la máquina está el interruptor de encendido, la conexión a la corriente y al computador.
 
 |Parte trasera|
 :------:
-![foto maquina conectada](img/maquinaConectada.JPG)
+![foto maquina conectada](img/comp/maquinaConectada.JPG)
 
-|Encendido y alimentación | Puerto USB tipo B 
+|Encendido y alimentación  | Puerto USB tipo B 
 ---------------------------|-------------------------------
-![foto maquina fuente](img/maquinaFuente.JPG) | ![foto maquina u s b](img/maquinaUSB.JPG)
+![foto maquina fuente](img/comp/maquinaFuente.JPG) | ![foto maquina u s b](img/comp/maquinaUSB.JPG)
 
 TODO hablar de las acciones al usarla, desde el encendido
 
 ### Las fresas
+Existen fresas para distintos usos, por lo que para fabricar una pcb se debe cambiar la fresa antes de cada etapa. Principalmente hay 2 usos, grabado de pistas, y perforaciónes/cortes.
+
 TODO Fresas para las pistas
 
 TODO Fresas para corte
 
 ## El software
+Para usar la maquina en el taller se cuenta con un equipo con ***Bantam Tools Desktop Milling Machine Software*** instalado
+
 TODO hablar de la versión compatible y donde encontrarla
 
 TODO funciones del software
