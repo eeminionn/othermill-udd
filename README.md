@@ -71,7 +71,7 @@ En la parte trasera de la máquina está el interruptor de encendido, la conexi�
 
 |Parte trasera|
 :------:
-![foto maquina conectada](img/comp/maquinaConectada.jpg)
+|![foto maquina conectada](img/comp/maquinaConectada.jpg)|
 
 |Encendido y alimentación  | Puerto USB tipo B 
 ---------------------------|-------------------------------
