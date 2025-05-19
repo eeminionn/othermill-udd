@@ -7,33 +7,46 @@ Instructivo de la utilización de la maquina Othermill de Bantam Tools para su u
 
 $$\color{red}\Huge{\textsf{Considerar!}}$$
 
-TODO Precauciones
+## Precauciones
 
--
--
+- Verificar que no haya gente transitando mientras se vaya a usar
+- Verificar sujeción de la fresa 
+- MAntenerse junta a la maquina mientras está trabajando
 
-TODO Herramientas
+## Herramientas
+
+###### Fresas para el mecanizado:
+- Fresa de grabado punta V 
+- Fresa en espiral
+(más adelante se especifica)
+
+###### Para el cambio y sujeción de fresa:
+- Llave punta corona 13mm
+- Llave punta corona 17mm
 
 ------------------------
 
 ## Uso
 La cnc othermill es una fresadora por control numérico computarizado, y al igual que una impresora 3d o una cortadora láser nos ayuda con la manufactura de productos, en este caso específicamente en la producción de circuitos en placas PCB.
 
-TODO foto pcb
+>![Discrete diode-transistor logic printed circuit modules manufactured in the German Democratic Republic. Produced in the 1960s](img/pcbEjemplo.jpg)
+<a href="https://commons.wikimedia.org/wiki/File:GS48_63.jpg">Mister rf</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
 
 ### PCB
 >*En electrónica, una placa de circuito impreso es una superficie constituida por caminos, pistas o lapices de circuitos buses de material conductor laminadas sobre una base no conductora. El circuito impreso se utiliza para conectar eléctricamente a través de las pistas conductoras, y sostener mecánicamente, por medio de la base, un conjunto de componentes electrónicos. Las pistas son generalmente de cobre, mientras que la base se fabrica generalmente de resinas de fibra de vidrio reforzada, cerámica, plástico, teflón o polímeros como la baquelita.*
 >[Wikipedia](https://es.wikipedia.org/wiki/Circuito_impreso)
 
-TODO foto producto con pcb
-
 Las PCB o **placas de circuito impreso**, son usadas para la **producción serializada** de componentes electrónicos, y su uso se extiende a la mayoría de productos con alguna clase de circuito. Al desarrollar un proyecto que cuenta con algún circuito se suele comenzar prototipando en un *protoboard*, dicho prototipo tendría como objetivo validar el funcionamiento de la electrónica, tras ello el siguente paso sería fabricar el circuito en PCB, esta vez pensando en dimensiones físicas, ensambles, y en la integralidad del producto.
+
+>![Canon PowerShot G11 - Rear view of the interior.jpg](img/interiorCamara.jpg)
+<a href="https://commons.wikimedia.org/wiki/File:Canon_PowerShot_G11_-_Rear_view_of_the_interior.jpg">Teardown Central</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons
 
 Una placa PCB cuenta con varias capas, pero en su forma básica tiene una capa de sustrato y una capa de cobre, existen algunas con más capas de estas, e incluso con otras capas.
 
 La capa de sustrato está hecha de un material aislante, y la capa de cobre, debido a su composición, es conductiva. Esto permite generar conexiones eléctricas entre distintos componentes sustrayendo cobre de la placa, generando las llamadas pistas.
 
-TODO foto capas de un pcb
+>![capas de una pcb](img/pcbCapas.png)
+<a href="https://commons.wikimedia.org/wiki/File:Layers_of_Single-Layer_PCB_Simplified.svg">Gregortiverse</a>, CC0, via Wikimedia Commons
 
 Para el diseño de estas placas existen softwares en los que se pueden generar esquemáticos y placas, como KiCad, Fritzing, o Autodesk Eagle; de las tres se recomienda **KiCad** por ser open source y por contar con mantenimiento regular.
 
