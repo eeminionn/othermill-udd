@@ -93,6 +93,10 @@ TODO hablar de la versión compatible y donde encontrarla
 
 TODO funciones del software
 
+## Fabricación de una PCB
+
+TODO operaciones en la máquina y en el software en pasos
+
 ---
 
 ##### El siguente paso
