@@ -7,13 +7,13 @@ Instructivo de la utilización de la maquina Othermill de Bantam Tools para su u
 
 $$\color{red}\Huge{\textsf{Considerar!}}$$
 
-## Precauciones
+### Precauciones
 
 - Verificar que no haya gente transitando mientras se vaya a usar
 - Verificar sujeción de la fresa 
 - MAntenerse junta a la maquina mientras está trabajando
 
-## Herramientas
+### Herramientas
 
 ###### Fresas para el mecanizado:
 - Fresa de grabado punta V 
