@@ -12,6 +12,7 @@ $$\color{red}\Huge{\textsf{Considerar!}}$$
 - Verificar que no haya gente transitando mientras se vaya a usar
 - Verificar sujeción de la fresa 
 - Mantenerse junto a la maquina mientras está trabajando
+- Mantener las tapas acrílicas cerradas
 
 ### Herramientas
 
@@ -23,6 +24,10 @@ $$\color{red}\Huge{\textsf{Considerar!}}$$
 ###### Para el cambio y sujeción de fresa:
 - Llave punta corona 13mm
 - Llave punta corona 17mm
+
+###### Para el mantenimiento:
+- Retirar la fresa por precaución
+- Usar la aspiradora para retirar 
 
 ------------------------
 
@@ -53,7 +58,7 @@ Para el diseño de estas placas existen softwares en los que se pueden generar e
 Al diseñar una placa de circuito se deben generar los distintos archivos ***gerber***, para su fabricación. Cada capa del circuito tiene su propio archivo, los que se deben importar en el software de la máquina.
 
 ## La máquina
-El modelo de la CNC es **Othermill Pro** de *Other Machine Co.* 
+El modelo de la CNC es **Othermill Pro** de *Other Machine Co.* TODO 
 
 |**Othermill Pro**
 :----:
@@ -87,19 +92,20 @@ Para aislar las pistas se usan fresas de grabado, también llamadas fresas en V,
 Para los cortes y las perforaciones se recomienda usar fresas en espiral de 0.8mm, estas son muy delicadas por lo que se debe trabajar con cuidado de no dañarla. Para evitar roturas mientras está fresando, se recomienda usar el preset TODO(nombre del preset) configurado por [ElPerroGCP](https://github.com/ElPerroGCP) debería ser el adecuado.
 
 ## El software
-Para usar la maquina en el taller se cuenta con un equipo con ***Bantam Tools Desktop Milling Machine Software*** instalado
+Para usar la maquina en el taller se cuenta con un equipo con ***Bantam Tools Desktop Milling Machine Software*** instalado, el equipo cuenta también con los distintos presets que usamos en el taller para la fabricación de las placas.
 
-TODO hablar de la versión compatible y donde encontrarla
+Si deseas instalar el software en tu propio PC te recomendamos descargar la siguiente versión: TODO
 
-TODO funciones del software
+Este software toma los archivos gerber y genera un plan de mecanizado en gcode para enviar a la máquina. Para lograrlo hay que pasar por distintas etapas:
+- a
+- b
+- c
 
-## Fabricación de una PCB
+Cada una de ellas relacionada a lo que hagamos en la máquina, por lo que a continuación se detalla el paso a paso, tanto de lo que se debe hacer en el software como con el hardware.
 
-TODO operaciones en la máquina y en el software en pasos
+[CONTIUNUAR A LA FABRICACIÓN 
+![continuar](https://web.archive.org/web/20090830014314/http://geocities.com/TheTropics/Reef/6161/Next_day.gif)](fab/)
 
 ---
-
-##### El siguente paso
-###### Si ya lograste producir tus circuitos PCB con la Othermill te invitamos a dar el siguiente paso investigando más sobre la manufactura de circuitos, hay muchos tipos y técnicas, como también tienes la posibilidad de delegar la manufactura en un tercero como JLC-PCB y PCB-Way.
 
 >documentado por [AndresMartinM](https://github.com/AndresMartinM) y por [ElPerroGCP](https://github.com/ElPerroGCP) 2025
