@@ -105,7 +105,7 @@ Cada una de ellas relacionada a lo que hagamos en la máquina, por lo que a cont
 
 
 
-<a href="fab/">CONTIUNUAR A LA FABRICACIÓN<img width="50px" src="https://web.archive.org/web/20000829204600/http://www.geocities.com:80/Tokyo/Gulf/6263/next.gif"></a>
+<a width="100%" href="fab/">CONTIUNUAR A LA FABRICACIÓN<img width="50px" src="https://web.archive.org/web/20000829204600/http://www.geocities.com:80/Tokyo/Gulf/6263/next.gif"></a>
 
 ---
 
