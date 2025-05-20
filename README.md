@@ -87,9 +87,9 @@ TODO hablar de las acciones al usarla, desde el encendido
 ### Las fresas
 Existen fresas para distintos usos, por lo que para fabricar una pcb se debe cambiar la fresa antes de cada etapa. Principalmente hay 2 usos, grabado de pistas, y perforaciónes/cortes.
 
-Para aislar las pistas se usan fresas de grabado, también llamadas fresas en V, esta etapa se realiza antes del corte y perforado, para esto estamos usando la fresa de 20°, se recomienda usar el preset TODO(nombre del preset) configurado por [ElPerroGCP](https://github.com/ElPerroGCP) en la máquina.
+Para aislar las pistas se usan fresas de grabado, también llamadas fresas en V, esta etapa se realiza antes del corte y perforado, para esto estamos usando la fresa de 20°, se recomienda usar el preset TODO(nombre del preset) configurado por [eeminionn](https://github.com/eeminionn) en la máquina.
 
-Para los cortes y las perforaciones se recomienda usar fresas en espiral de 0.8mm, estas son muy delicadas por lo que se debe trabajar con cuidado de no dañarla. Para evitar roturas mientras está fresando, se recomienda usar el preset TODO(nombre del preset) configurado por [ElPerroGCP](https://github.com/ElPerroGCP) debería ser el adecuado.
+Para los cortes y las perforaciones se recomienda usar fresas en espiral de 0.8mm, estas son muy delicadas por lo que se debe trabajar con cuidado de no dañarla. Para evitar roturas mientras está fresando, se recomienda usar el preset TODO(nombre del preset) configurado por [eeminionn](https://github.com/eeminionn) debería ser el adecuado.
 
 ## El software
 Para usar la maquina en el taller se cuenta con un equipo con ***Bantam Tools Desktop Milling Machine Software*** instalado, el equipo cuenta también con los distintos presets que usamos en el taller para la fabricación de las placas.
@@ -108,4 +108,4 @@ Cada una de ellas relacionada a lo que hagamos en la máquina, por lo que a cont
 
 ---
 
->documentado por [AndresMartinM](https://github.com/AndresMartinM) y por [ElPerroGCP](https://github.com/ElPerroGCP) 2025
+>documentado por [AndresMartinM](https://github.com/AndresMartinM) y por [eeminionn](https://github.com/eeminionn) 2025
