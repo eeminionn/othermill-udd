@@ -27,7 +27,7 @@ $$\color{red}\Huge{\textsf{Considerar!}}$$
 
 ###### Para el mantenimiento:
 - Retirar la fresa por precaución
-- Usar la aspiradora para retirar 
+- Usar la aspiradora para retirar el polvo
 
 ------------------------
 
@@ -58,7 +58,7 @@ Para el diseño de estas placas existen softwares en los que se pueden generar e
 Al diseñar una placa de circuito se deben generar los distintos archivos ***gerber***, para su fabricación. Cada capa del circuito tiene su propio archivo, los que se deben importar en el software de la máquina.
 
 ## La máquina
-El modelo de la CNC es **Othermill Pro** de *Other Machine Co.* TODO 
+El modelo de la CNC es **Othermill Pro** de *Other Machine Co.* en su cara frontal, trasera, y laterales tiene tapas acrílicas 
 
 |**Othermill Pro**
 :----:
@@ -97,7 +97,7 @@ Para usar la maquina en el taller se cuenta con un equipo con ***Bantam Tools De
 Si deseas instalar el software en tu propio PC te recomendamos descargar la siguiente versión: TODO
 
 Este software toma los archivos gerber y genera un plan de mecanizado en gcode para enviar a la máquina. Para lograrlo hay que pasar por distintas etapas:
-- a
+- a TODO
 - b
 - c
 
