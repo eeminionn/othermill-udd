@@ -1,6 +1,18 @@
 # Guía de uso CNC Othermill Exploratec
 Instructivo de la utilización de la maquina Othermill con Bantam Tools para su uso en el taller de Exploratec UDD.
 
+----
+
+$$\color{red}\Huge{\textsf{Considerar!}}$$
+
+### Mañas del proceso
+
+Algunas de las funcionalidades del software de Bantam Tools tienen problemas si no se realizan de una menera en específico:
+
+- 
+
+----
+
 ## Fabricación de una PCB
 
 TODO operaciones en la máquina y en el software en pasos
