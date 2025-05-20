@@ -104,8 +104,7 @@ Este software toma los archivos gerber y genera un plan de mecanizado en gcode p
 Cada una de ellas relacionada a lo que hagamos en la máquina, por lo que a continuación se detalla el paso a paso, tanto de lo que se debe hacer en el software como con el hardware.
 
 
-
-<a width="100%" href="fab/">CONTIUNUAR A LA FABRICACIÓN<img width="50px" src="https://web.archive.org/web/20000829204600/http://www.geocities.com:80/Tokyo/Gulf/6263/next.gif"></a>
+[CONTIUNUAR A LA FABRICACIÓN](fab/)[![continuar](https://web.archive.org/web/20000829204600/http://www.geocities.com:80/Tokyo/Gulf/6263/next.gif)](fab/)
 
 ---
 
