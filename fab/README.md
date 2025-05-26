@@ -42,6 +42,7 @@ Así como también contar con las herramientas necesarias:
 ## Fabricación de una PCB
 
 TODO operaciones en la máquina y en el software en pasos
+
 | ***Material Setup*** |
 |:---:|
 | name |
@@ -58,6 +59,7 @@ TODO operaciones en la máquina y en el software en pasos
 ![](img/paso6.png)
 | name |
 ![](img/paso7.png)
+
 
 | ***File Setup*** |
 :---:
