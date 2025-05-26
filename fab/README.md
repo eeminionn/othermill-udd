@@ -72,7 +72,13 @@ En la pestaña `Material Setup` podremos configurar el tamaño de nuestra placa 
 | A.7 Definir offset y posición del material |
 ![](img/paso7.png)
 
-TODO emilioooo escribir las instruciones de configuración de archivo
+
+
+En la pestaña `FILE SETUP` podremos configurar el archivo a fresar, primero importamos el archivo ya sea .grb o .brd, tal como se ve en (Figura B.1), luego en el menú que se despliega configuramos la fresa a ocupar en la casilla de `Milling Tools` tal como se ve en la imagen (Figura B.2), del mismo modo se configuran los parámetros de `Side` (usualmente se mantiene bottom) y se activa la función de mecanizado deseada `Traces / Holes / Outline` (para los perfiles recomendados se mecaniza una función a la vez), como recomendación, se aconseja ocupar un `Trace Clearence` >= 3.5
+
+Por ultimo generamos el `GCODE` y revisamos que no exista alguna inconsistencia en las previsualización de la placa.
+
+*En el caso de importar un archivo .grb se tiene que importar individualmente la capa de pistas, corte y perforaciones*
 
 | B. ***File Setup*** |
 :---:
