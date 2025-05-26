@@ -82,7 +82,7 @@ En la parte trasera de la máquina está el interruptor de encendido, la conexi�
 ---------------------------|-------------------------------
 ![foto maquina fuente](img/comp/maquinaFuente.jpg) | ![foto maquina u s b](img/comp/maquinaUSB.jpg)
 
-TODO hablar de las acciones al usarla, desde el encendido
+Para poder hacer uso de la máquina, esta debe estas conectada a la corriente y al computador con sus respectivos cables, luego para encenderla se presiona el interruptor trasero (O apagado / I encendido), si está encendida se iluminará el interior de esta.
 
 ### Las fresas
 Existen fresas para distintos usos, por lo que para fabricar una pcb se debe cambiar la fresa antes de cada etapa. Principalmente hay 2 usos, grabado de pistas, y perforaciónes/cortes.
