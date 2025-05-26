@@ -43,7 +43,7 @@ Así como también contar con las herramientas necesarias:
 
 TODO operaciones en la máquina y en el software en pasos
 | ***Material Setup*** |
-:---:
+|:---:|
 | name |
 ![](img/paso1.png)
 | name |
