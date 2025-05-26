@@ -51,7 +51,7 @@ Antes de comenzar se debe conocer el manejo del movimiento de la fresa, para est
 
 Para la fabricación de una placa hay que tener una PCB sin perforar de una o dos capas (se recomenda trabajar con una sola capa para evitar problemas de calces), y esta habrá que dimensionarla y adherirla a la cama de la othermill. Para el dimensionado en el taller contamos con dremell y su disco de corte, y para pegarla a la cama de aluminio usamos cinta doblefaz delgada (no de la acolchada) y la pegamos calzando en una de las esquinas delanteras.
 
-En la pestaña `Material Setup` podremos configurar el tamaño de nuestra placa (Figura A.6), en el caso de las PCB que usamos el espesor es 1.6mm por lo que en eje z ponemos 1,6, el X e Y dependerán de como lo hayamos dimensionado. Dependiendo de en qué esquina hayamos adherido la placa seleccionamos el *Alignment* (Figura A.7) y pasamos a la etapa de configuración de archivo.
+En la pestaña `MATERIAL SETUP` podremos configurar el tamaño de nuestra placa (Figura A.6), en el caso de las PCB que usamos el espesor es 1.6mm por lo que en eje z ponemos 1,6, el X e Y dependerán de como lo hayamos dimensionado. Dependiendo de en qué esquina hayamos adherido la placa seleccionamos el *Alignment* (Figura A.7) y pasamos a la etapa de configuración de archivo.
 
 | A. ***Material Setup*** |
 |:---:|
@@ -73,12 +73,11 @@ En la pestaña `Material Setup` podremos configurar el tamaño de nuestra placa 
 ![](img/paso7.png)
 
 
-
 En la pestaña `FILE SETUP` podremos configurar el archivo a fresar, primero importamos el archivo ya sea .grb o .brd, tal como se ve en (Figura B.1), luego en el menú que se despliega configuramos la fresa a ocupar en la casilla de `Milling Tools` tal como se ve en la imagen (Figura B.2), del mismo modo se configuran los parámetros de `Side` (usualmente se mantiene bottom) y se activa la función de mecanizado deseada `Traces / Holes / Outline` (para los perfiles recomendados se mecaniza una función a la vez), como recomendación, se aconseja ocupar un `Trace Clearence` >= 3.5
 
 Por ultimo generamos el `GCODE` y revisamos que no exista alguna inconsistencia en las previsualización de la placa.
 
-*En el caso de importar un archivo .grb se tiene que importar individualmente la capa de pistas, corte y perforaciones*
+###### *En el caso de importar un archivo .grb se tiene que importar individualmente la capa de pistas, corte y perforaciones*
 
 | B. ***File Setup*** |
 :---:
@@ -89,7 +88,7 @@ Por ultimo generamos el `GCODE` y revisamos que no exista alguna inconsistencia 
 | B.3 Generar GCODE (revisar previo al fresado) |
 ![](img/paso10.png)
 
-Teniendo lista la configuración de el/los archivos se puede continuar con la pestaña de `Plan Setup`, en ella se puede mover la úbicación en la que se realizará el mecanizado (Figura C.1), esto no sirve por ejemplo si queremos hacer varias PCB con la misma placa. A continuación se puede realizar el último paso que es iniciar el fresado en la pestaña `Summary / Run Job` (Figura C.2). En esa pestaña está el botón `Mill Single File`, al presionarlo la máquina nos advertirá en el caso de tener una fresa instalada distinta a la necesaria, para ello tendremos que realizar el proceso de `Install Tool` (desde Figura A.1 a Figura A.5), en este proceso hay que tener cudado en el momento que baje la fresa, puesto que si baja sobre la placa PCB no tocará la cama de aluminio, lo que es necesario para detectar conductividad y "setear" la altura.
+Teniendo lista la configuración de el/los archivos se puede continuar con la pestaña de `PLAN SETUP`, en ella se puede mover la úbicación en la que se realizará el mecanizado (Figura C.1), esto no sirve por ejemplo si queremos hacer varias PCB con la misma placa. A continuación se puede realizar el último paso que es iniciar el fresado en la pestaña `SUMMARY / RUN JOB` (Figura C.2). En esa pestaña está el botón `Mill Single File`, al presionarlo la máquina nos advertirá en el caso de tener una fresa instalada distinta a la necesaria, para ello tendremos que realizar el proceso de `Install Tool` (desde Figura A.1 a Figura A.5), en este proceso hay que tener cudado en el momento que baje la fresa, puesto que si baja sobre la placa PCB no tocará la cama de aluminio, lo que es necesario para detectar conductividad y "setear" la altura.
 
 | C. ***Plan Setup*** **y** ***Run Job*** |
 :---:
@@ -97,7 +96,6 @@ Teniendo lista la configuración de el/los archivos se puede continuar con la pe
 ![](img/paso11.png)
 | C.2 Revisar selección de fresa y comenzar fresado |
 ![](img/paso12.png)
-
 
 
 ---
