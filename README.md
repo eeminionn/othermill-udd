@@ -82,7 +82,7 @@ En la parte trasera de la máquina está el interruptor de encendido, la conexi�
 ---------------------------|-------------------------------
 ![foto maquina fuente](img/comp/maquinaFuente.jpg) | ![foto maquina u s b](img/comp/maquinaUSB.jpg)
 
-TODO hablar de las acciones al usarla, desde el encendido
+Para poder hacer uso de la máquina, esta debe estas conectada a la corriente y al computador con sus respectivos cables, luego para encenderla se presiona el interruptor trasero (O apagado / I encendido), si está encendida se iluminará el interior de esta.
 
 ### Las fresas
 Existen fresas para distintos usos, por lo que para fabricar una pcb se debe cambiar la fresa antes de cada etapa. Principalmente hay 2 usos, grabado de pistas, y perforaciónes/cortes.
@@ -94,12 +94,15 @@ Para los cortes y las perforaciones se recomienda usar fresas en espiral de 0.8m
 ## El software
 Para usar la maquina en el taller se cuenta con un equipo con ***Bantam Tools Desktop Milling Machine Software*** instalado, el equipo cuenta también con los distintos presets que usamos en el taller para la fabricación de las placas.
 
-Si deseas instalar el software en tu propio PC te recomendamos descargar la siguiente versión: TODO
+Si deseas instalar el software en tu propio PC puedes descargarla desde la página de Bantam: [*Bantam Tools Milling Machine Software*](https://support.bantamtools.com/hc/en-us/articles/29471852026131-Bantam-Tools-Milling-Machine-Software)
+
+En el taller la versión usada es la `2.5.34` y en el caso de no estar disponible en la web de bantam, dentro de este repositorio está el instalador de windows correspondiente como respaldo.
 
 Este software toma los archivos gerber y genera un plan de mecanizado en gcode para enviar a la máquina. Para lograrlo hay que pasar por distintas etapas:
-- a TODO
-- b
-- c
+- ***Material Setup*** (configurar las dimensiones, posición y tipo de material)
+- ***File Setup*** (configurar el archivo gerber o bord de la placa, así como las herramientas que se usaran con cada capa)
+- ***Plan Setup*** (configurar la ubicación del mecanizado, y previsualizar el plan de fresado)
+- ***Summary / Run Job*** (iniciar el mecanizado)
 
 Cada una de ellas relacionada a lo que hagamos en la máquina, por lo que a continuación se detalla el paso a paso, tanto de lo que se debe hacer en el software como con el hardware.
 
