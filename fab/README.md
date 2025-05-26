@@ -51,7 +51,7 @@ Antes de comenzar se debe conocer el manejo del movimiento de la fresa, para est
 
 Para la fabricación de una placa hay que tener una PCB sin perforar de una o dos capas (se recomenda trabajar con una sola capa para evitar problemas de calces), y esta habrá que dimensionarla y adherirla a la cama de la othermill. Para el dimensionado en el taller contamos con dremell y su disco de corte, y para pegarla a la cama de aluminio usamos cinta doblefaz delgada (no de la acolchada) y la pegamos calzando en una de las esquinas delanteras.
 
-En la pestaña `Material Setup` podremos configurar el tamaño de nuestra placa (Figura A.6), en el caso de las PCB que usamos el espesor es 1.6mm por lo que en eje z ponemos 1,6, el X e Y dependerán de como lo hayamos dimensionado. Dependiendo de en qué esquina hayamos adherido la placa seleccionamos 
+En la pestaña `Material Setup` podremos configurar el tamaño de nuestra placa (Figura A.6), en el caso de las PCB que usamos el espesor es 1.6mm por lo que en eje z ponemos 1,6, el X e Y dependerán de como lo hayamos dimensionado. Dependiendo de en qué esquina hayamos adherido la placa seleccionamos el *Alignment* (Figura A.7) y pasamos a la etapa de configuración de archivo.
 
 | A. ***Material Setup*** |
 |:---:|
@@ -65,7 +65,9 @@ En la pestaña `Material Setup` podremos configurar el tamaño de nuestra placa 
 ![](img/paso4.png)
 | A.5 Posicionar fresa **sobre aluminio** |
 ![](img/paso5.png)
-| A.6 Configurar tamaño del material |
+| A.6a Pegar el material |
+![](img/posicionarBaquelita.jpeg)
+| A.6b Configurar tamaño del material |
 ![](img/paso6.png)
 | A.7 Definir offset y posición del material |
 ![](img/paso7.png)
@@ -87,7 +89,9 @@ Por ultimo generamos el `GCODE` y revisamos que no exista alguna inconsistencia 
 | B.3 Generar GCODE (revisar previo al fresado) |
 ![](img/paso10.png)
 
-| C. ***Plan Setup*** |
+Teniendo lista la configuración de el/los archivos se puede continuar con la pestaña de `Plan Setup`, en ella se puede mover la úbicación en la que se realizará el mecanizado (Figura C.1), esto no sirve por ejemplo si queremos hacer varias PCB con la misma placa. A continuación se puede realizar el último paso que es iniciar el fresado en la pestaña `Summary / Run Job` (Figura C.2). En esa pestaña está el botón `Mill Single File`, al presionarlo la máquina nos advertirá en el caso de tener una fresa instalada distinta a la necesaria, para ello tendremos que realizar el proceso de `Install Tool` (desde Figura A.1 a Figura A.5), en este proceso hay que tener cudado en el momento que baje la fresa, puesto que si baja sobre la placa PCB no tocará la cama de aluminio, lo que es necesario para detectar conductividad y "setear" la altura.
+
+| C. ***Plan Setup*** **y** ***Run Job*** |
 :---:
 | C.1 Configurar offset |
 ![](img/paso11.png)
