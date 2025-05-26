@@ -10,7 +10,7 @@ $$\color{red}\Huge{\textsf{Considerar!}}$$
 Algunas de las funcionalidades del software de Bantam Tools tienen problemas si no se realizan de una menera en específico:
 
 - Al digitar números decimales usar la coma en lugar de puntos (ej:0,2), esto se debe corregir cada vez que se cambia un número.
-- 
+- Al realizar un cambio en un valor, u opción, se debe presionar Intro para configurar la modificación.
 
 Además se deben tomar todas las precauciones indicadas anteriormente:
 
