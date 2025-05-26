@@ -1,0 +1,252 @@
+[
+    {
+        "conductive": "yes",
+        "flutes": "2",
+        "group": "Endmill",
+        "name": "Fresa_Holes-0.8",
+        "params": [
+            {
+                "millVersion": "V1",
+                "pass_depth": 0.05,
+                "ramp_angle": 1,
+                "spindle_speed": 27500,
+                "stepover": 0.5,
+                "xy_feed_rate": 500,
+                "z_feed_rate": 381
+            },
+            {
+                "millVersion": "V2",
+                "pass_depth": 0.05,
+                "ramp_angle": 1,
+                "spindle_speed": 27500,
+                "stepover": 0.5,
+                "xy_feed_rate": 500,
+                "z_feed_rate": 381
+            },
+            {
+                "millVersion": "Pro",
+                "pass_depth": 0.05,
+                "ramp_angle": 1,
+                "spindle_speed": 27500,
+                "stepover": 0.5,
+                "xy_feed_rate": 500,
+                "z_feed_rate": 381
+            },
+            {
+                "millVersion": "Bantam",
+                "pass_depth": 0.05,
+                "ramp_angle": 1,
+                "spindle_speed": 27500,
+                "stepover": 0.5,
+                "xy_feed_rate": 500,
+                "z_feed_rate": 381
+            },
+            {
+                "millVersion": "Bantam_esc",
+                "pass_depth": 0.05,
+                "ramp_angle": 1,
+                "spindle_speed": 27500,
+                "stepover": 0.5,
+                "xy_feed_rate": 500,
+                "z_feed_rate": 381
+            },
+            {
+                "millVersion": "Bantam_CNC",
+                "pass_depth": 0.05,
+                "ramp_angle": 1,
+                "spindle_speed": 27500,
+                "stepover": 0.5,
+                "xy_feed_rate": 500,
+                "z_feed_rate": 381
+            },
+            {
+                "millVersion": "Bantam_CNC_Black",
+                "pass_depth": 0.05,
+                "ramp_angle": 1,
+                "spindle_speed": 27500,
+                "stepover": 0.5,
+                "xy_feed_rate": 500,
+                "z_feed_rate": 381
+            },
+            {
+                "millVersion": "Mini_mill",
+                "pass_depth": 0.05,
+                "ramp_angle": 1,
+                "spindle_speed": 27500,
+                "stepover": 0.5,
+                "xy_feed_rate": 500,
+                "z_feed_rate": 381
+            },
+            {
+                "millVersion": "V3",
+                "pass_depth": 0.05,
+                "ramp_angle": 1,
+                "spindle_speed": 27500,
+                "stepover": 0.5,
+                "xy_feed_rate": 500,
+                "z_feed_rate": 381
+            },
+            {
+                "millVersion": "Router",
+                "pass_depth": 0.05,
+                "ramp_angle": 1,
+                "spindle_speed": 27500,
+                "stepover": 0.5,
+                "xy_feed_rate": 500,
+                "z_feed_rate": 381
+            }
+        ],
+        "profile": [
+            [
+                3.175,
+                36.5,
+                0,
+                0
+            ],
+            [
+                3.175,
+                2.5875,
+                0,
+                -1
+            ],
+            [
+                0.8,
+                1.5875,
+                0,
+                1
+            ],
+            [
+                0.8,
+                0,
+                0,
+                1
+            ]
+        ],
+        "uuid": "{dc9b23d6-ccb9-42be-8e5a-b2466426a72c}"
+    },
+    {
+        "conductive": "yes",
+        "flutes": "2",
+        "group": "Endmill",
+        "name": "Fresa_Outline-0.8",
+        "params": [
+            {
+                "millVersion": "V1",
+                "pass_depth": 0.05,
+                "ramp_angle": 1,
+                "spindle_speed": 27500,
+                "stepover": 0.5,
+                "xy_feed_rate": 1100,
+                "z_feed_rate": 381
+            },
+            {
+                "millVersion": "V2",
+                "pass_depth": 0.05,
+                "ramp_angle": 1,
+                "spindle_speed": 27500,
+                "stepover": 0.5,
+                "xy_feed_rate": 1100,
+                "z_feed_rate": 381
+            },
+            {
+                "millVersion": "Pro",
+                "pass_depth": 0.05,
+                "ramp_angle": 1,
+                "spindle_speed": 27500,
+                "stepover": 0.5,
+                "xy_feed_rate": 1100,
+                "z_feed_rate": 381
+            },
+            {
+                "millVersion": "Bantam",
+                "pass_depth": 0.05,
+                "ramp_angle": 1,
+                "spindle_speed": 27500,
+                "stepover": 0.5,
+                "xy_feed_rate": 1100,
+                "z_feed_rate": 381
+            },
+            {
+                "millVersion": "Bantam_esc",
+                "pass_depth": 0.05,
+                "ramp_angle": 1,
+                "spindle_speed": 27500,
+                "stepover": 0.5,
+                "xy_feed_rate": 1100,
+                "z_feed_rate": 381
+            },
+            {
+                "millVersion": "Bantam_CNC",
+                "pass_depth": 0.05,
+                "ramp_angle": 1,
+                "spindle_speed": 27500,
+                "stepover": 0.5,
+                "xy_feed_rate": 1100,
+                "z_feed_rate": 381
+            },
+            {
+                "millVersion": "Bantam_CNC_Black",
+                "pass_depth": 0.05,
+                "ramp_angle": 1,
+                "spindle_speed": 27500,
+                "stepover": 0.5,
+                "xy_feed_rate": 1100,
+                "z_feed_rate": 381
+            },
+            {
+                "millVersion": "Mini_mill",
+                "pass_depth": 0.05,
+                "ramp_angle": 1,
+                "spindle_speed": 27500,
+                "stepover": 0.5,
+                "xy_feed_rate": 1100,
+                "z_feed_rate": 381
+            },
+            {
+                "millVersion": "V3",
+                "pass_depth": 0.05,
+                "ramp_angle": 1,
+                "spindle_speed": 27500,
+                "stepover": 0.5,
+                "xy_feed_rate": 1100,
+                "z_feed_rate": 381
+            },
+            {
+                "millVersion": "Router",
+                "pass_depth": 0.05,
+                "ramp_angle": 1,
+                "spindle_speed": 27500,
+                "stepover": 0.5,
+                "xy_feed_rate": 1100,
+                "z_feed_rate": 381
+            }
+        ],
+        "profile": [
+            [
+                3.175,
+                36.5,
+                0,
+                0
+            ],
+            [
+                3.175,
+                2.5875,
+                0,
+                -1
+            ],
+            [
+                0.8,
+                1.5875,
+                0,
+                1
+            ],
+            [
+                0.8,
+                0,
+                0,
+                1
+            ]
+        ],
+        "uuid": "{d98023aa-4a14-4056-a796-65c19b38782e}"
+    }
+]
