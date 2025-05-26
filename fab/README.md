@@ -45,36 +45,36 @@ TODO operaciones en la máquina y en el software en pasos
 
 | ***Material Setup*** |
 |:---:|
-| name |
-![](img/paso1.png)
-| name |
+| Instalar fresa |
 ![](img/paso2.png)
-| name |
+| Seleccionar fresa |
+![](img/paso1.png)
+| Elegir fresa a instalar |
 ![](img/paso3.png)
-| name |
+| Confirmar fresa para iniciar instalación |
 ![](img/paso4.png)
-| name |
+| Posicionar fresa **sobre aluminio** |
 ![](img/paso5.png)
-| name |
+| Configurar tamaño del material |
 ![](img/paso6.png)
-| name |
+| Definir offset y posición del material |
 ![](img/paso7.png)
 
 
 | ***File Setup*** |
 :---:
-| name |
+| Seleccionar archivo |
 ![](img/paso8.png)
-| name |
+| Configurar fresa y parámetros |
 ![](img/paso9.png)
-| name |
+| Generar GCODE (revisar previo al fresado) |
 ![](img/paso10.png)
 
 | ***Plan Setup*** |
 :---:
-| name |
+| Configurar offset |
 ![](img/paso11.png)
-| name |
+| Revisar selección de fresa y comenzar fresado |
 ![](img/paso12.png)
 
 Calibración de la altura!!!!
